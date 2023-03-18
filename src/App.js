@@ -9,8 +9,13 @@ function App() {
     setInput(e.target.value)
   }
   const printMsg = ()=> {
+    if(input==''){
+      setPrint(true)
+      setMsg("doing nothing")
+    }else{
     setPrint(true)
     setMsg(input)
+    }
   }
 
   return (
