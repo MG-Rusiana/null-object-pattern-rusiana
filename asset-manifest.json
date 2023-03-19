@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/null-object-pattern-rusiana/static/css/main.1d4ca8bc.css",
+    "main.js": "/null-object-pattern-rusiana/static/js/main.05ef323a.js",
+    "static/js/787.2624b716.chunk.js": "/null-object-pattern-rusiana/static/js/787.2624b716.chunk.js",
+    "index.html": "/null-object-pattern-rusiana/index.html",
+    "main.1d4ca8bc.css.map": "/null-object-pattern-rusiana/static/css/main.1d4ca8bc.css.map",
+    "main.05ef323a.js.map": "/null-object-pattern-rusiana/static/js/main.05ef323a.js.map",
+    "787.2624b716.chunk.js.map": "/null-object-pattern-rusiana/static/js/787.2624b716.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d4ca8bc.css",
+    "static/js/main.05ef323a.js"
+  ]
+}
